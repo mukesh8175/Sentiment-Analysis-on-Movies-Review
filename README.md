@@ -7,12 +7,9 @@ This repository contains a project on sentiment analysis using machine learning 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
+##Dataset  
+             https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?select=IMDB+Dataset.csv
 ---
 
 ## Introduction
